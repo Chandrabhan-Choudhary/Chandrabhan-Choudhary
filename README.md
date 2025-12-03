@@ -36,5 +36,5 @@ I’m a Computer Science student who believes in **resourcefulness over resource
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandrabhan-Choudhary&show_icons=true&theme=radical&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandrabhan-Choudhary&theme=radical&hide_border=true" height="150" alt="streak graph" />
 </p>
